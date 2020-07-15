@@ -1,12 +1,12 @@
-### Hi there 👋
 <p align="center">
-  <img src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react"> 
-  <img src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev">
-  <samp>
+  <img width="100px" src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react"> 
+  <img width="100px" src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev">
+</p>
+
+<samp>
 I'm Ariel Franco. A Web & Mobile Developer from Brazil. 
      <br><br>Contact me on <a href="https://www.linkedin.com/in/ariel-franco-ferreira-37b42b17a">Linkedin</a>
   </samp>
-</p>
 <!--
 **arielff3/arielff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
