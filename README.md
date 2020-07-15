@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+<p align="center">
+  <img src="./.github/react.gif" alt="react"> 
+  <img src="./.github/dev.gif" alt="dev">
+  <samp>
+I'm Ariel Franco. A Web & Mobile Developer from Brazil. 
+     <br><br>Contact me on <a href="https://www.linkedin.com/in/ariel-franco-ferreira-37b42b17a">Linkedin</a>
+  </samp>
+</p>
 <!--
 **arielff3/arielff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
