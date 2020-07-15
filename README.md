@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
-  <img src="./.github/react.gif" alt="react"> 
-  <img src="./.github/dev.gif" alt="dev">
+  <img src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react"> 
+  <img src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev">
   <samp>
 I'm Ariel Franco. A Web & Mobile Developer from Brazil. 
      <br><br>Contact me on <a href="https://www.linkedin.com/in/ariel-franco-ferreira-37b42b17a">Linkedin</a>
