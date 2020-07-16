@@ -7,7 +7,7 @@
   <samp>
     I'm Ariel Franco. A Web & Mobile Developer from Brazil. 
      <br><br>
-     <img width="40px" src=".github/arrow.svg" alt="arrow"/> Contact me on <img width="40px" src=".github/arrow.svg" alt="arrow"/>
+     <img width="10px" src="https://raw.githubusercontent.com/arielff3/arielff3/68f5b4bc764182ed14a00d18ed802bd5b1977548/.github/arrow.svg" alt="arrow"/> Contact me on <img width="10px" src="https://raw.githubusercontent.com/arielff3/arielff3/68f5b4bc764182ed14a00d18ed802bd5b1977548/.github/arrow.svg" alt="arrow"/>
   </samp>
 </p>
 
