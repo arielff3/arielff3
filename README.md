@@ -1,9 +1,11 @@
-### Hi there 👋
 <p align="center">
-  <img src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react"> 
-  <img src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev">
+  <img src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react" width="150px"> 
+  <img src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev" width="150px">
+  <img src=".github/dev2.gif" alt="dev2" width="150px">
+</p>
+<p align="center">
   <samp>
-I'm Ariel Franco. A Web & Mobile Developer from Brazil. 
+    I'm Ariel Franco. A Web & Mobile Developer from Brazil. 
      <br><br>Contact me on <a href="https://www.linkedin.com/in/ariel-franco-ferreira-37b42b17a">Linkedin</a>
   </samp>
 </p>
