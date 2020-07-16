@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ariel-franco-ferreira-37b42b17a">Linkedin</a> |
-  <a href="https://api.whatsapp.com/send?phone=5573998497288&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20github">Whatsapp</a> |
-  <a href="https://www.instagram.com/ariel_franco00/">Instagram</a>
+  <a style="color:#1BB5A2" href="https://www.linkedin.com/in/ariel-franco-ferreira-37b42b17a">Linkedin</a> |
+  <a style="color:#1BB5A2" href="https://api.whatsapp.com/send?phone=5573998497288&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20github">Whatsapp</a> |
+  <a style="color:#1BB5A2" href="https://www.instagram.com/ariel_franco00/">Instagram</a>
 </p>
 <!--
 **arielff3/arielff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
