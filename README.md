@@ -12,10 +12,7 @@
   <a style="color:#1BB5A2" href="https://www.instagram.com/ariel_franco00/">Instagram</a>
 </p>
 <p align="center">
-
-
-<a  align="center" href="https://app.daily.dev/arielff3"><img  align="center" src="https://api.daily.dev/devcards/be9a88823c2641a387b03e0d63ca8e2a.png?r=diq" width="200" alt="Ariel Franco Ferreira's Dev Card"/></a>
-
+<img align="center" width="200" align="center" src="https://api.daily.dev/devcards/be9a88823c2641a387b03e0d63ca8e2a.png?r=diq" alt="Ariel Franco Ferreira's Dev Card"/>
 </p>
 <!--
 **arielff3/arielff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
