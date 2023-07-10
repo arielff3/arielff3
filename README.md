@@ -11,9 +11,6 @@
   <a style="color:#1BB5A2" href="https://blog.arieldev.com.br/">My Blog</a> |
   <a style="color:#1BB5A2" href="https://www.instagram.com/ariel_franco00/">Instagram</a>
 </p>
-<p align="center">
-<img align="center" width="200" align="center" src="https://api.daily.dev/devcards/be9a88823c2641a387b03e0d63ca8e2a.png?r=diq" alt="Ariel Franco Ferreira's Dev Card"/>
-</p>
 <!--
 **arielff3/arielff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
