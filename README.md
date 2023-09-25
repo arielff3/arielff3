@@ -8,7 +8,7 @@
 
 <p align="center">
   <a style="color:#1BB5A2" href="https://www.linkedin.com/in/ariel-franco-ferreira-37b42b17a">Linkedin</a> |
-  <a style="color:#1BB5A2" href="https://blog.arieldev.com.br/">My Blog</a> |
+  <a style="color:#1BB5A2" href="https://blog.arieldev.com/">My Blog</a> |
   <a style="color:#1BB5A2" href="https://www.instagram.com/ariel_franco00/">Instagram</a>
 </p>
 <!--
